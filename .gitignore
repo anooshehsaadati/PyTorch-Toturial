@@ -2,3 +2,5 @@ Base_page.ipynb
 
 data/cifar-10-batches-py/
 data/cifar-10-python.tar.gz
+
+runs/
